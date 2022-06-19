@@ -4,7 +4,7 @@ an analysis of how to go long on Apple price
 
 ## Table of Contents
 
-- aapl2022.ipynb
+- aapljun2022.ipynb
 
 
 ## Installations
@@ -23,7 +23,7 @@ My interst in fintech
 
 ## File Description  
 
-- aapl2022.ipynb: jupyter notebook containing python analysis of datasets
+- aapljun2022.ipynb: jupyter notebook containing python analysis of datasets
 
 
 ## Results
