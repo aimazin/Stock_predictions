@@ -5,6 +5,7 @@ an analysis of how to go long on Apple price
 ## Table of Contents
 
 - aapljun2022.ipynb
+- MSFT_labs_time_series_forecasting_with_prophet_2022.ipynb
 
 
 ## Installations
@@ -24,6 +25,7 @@ My interst in fintech
 ## File Description  
 
 - aapljun2022.ipynb: jupyter notebook containing python analysis of datasets
+- MSFT_labs_time_series_forecasting_with_prophet_2022.ipynb: jupyter notebook containing python analysis of datasets
 
 
 ## Results
