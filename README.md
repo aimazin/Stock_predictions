@@ -27,10 +27,10 @@ My interst in fintech
 - aapljun2022.ipynb: jupyter notebook containing python analysis of datasets
 - MSFT_labs_time_series_forecasting_with_prophet_2022.ipynb: jupyter notebook containing python analysis of datasets
 
+## License
 
-## Results
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
-- a model for predicting percentage gains using technical indicators
 
 - a model for assessing indicators state at a point in time
 
